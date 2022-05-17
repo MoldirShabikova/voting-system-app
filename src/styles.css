@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container_img {
+  width: 150px;
+}
+
+.container {
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+}
+
+.container_team {
+  width: 33%;
+  padding: 3rem;
+  border: solid 2px black;
+}
+
+.btn {
+  padding: 1rem 2rem;
+}
